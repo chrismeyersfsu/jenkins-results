@@ -1,0 +1,6 @@
+.env
+my.db
+nightly-*
+step_1/
+step_2/
+**/__pycache__/**
